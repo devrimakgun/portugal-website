@@ -1,11 +1,21 @@
-# Info
+ # Info
 
 This is my website project that contains information about Portugal.
 
-You can see the screenshoot below 👇
+<hr>
+
+<p align="center"> 
+  You can see the screenshoot below 👇
+</p>
 
 ![img](img/page.jpg)
 
-Also you can see the screenshot for a small devices 👇
+<hr>
 
-![img](img/page2.jpg)
+<p align="center"> 
+  Also you can see the screenshot for a small devices 👇
+</p>
+
+<p align="center">  
+  <img width="460" src="img/page2.jpg">  
+</p>
